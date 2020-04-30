@@ -13,7 +13,7 @@
     "decimal": "0.0.2",
     "decimal.js": "^10.2.0",
     "element-ui": "^2.8.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
